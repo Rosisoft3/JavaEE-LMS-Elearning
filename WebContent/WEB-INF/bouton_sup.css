@@ -1,0 +1,6 @@
+@CHARSET "UTF-8";
+#bouton_supprimer{
+	position:relative;
+	left:500px;
+	width:75px;
+}
