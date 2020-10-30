@@ -33,7 +33,7 @@ LMS is a project Learning Management System for developing and realising web-bas
 
 **3. Configuration database.**
 
-Import [lms.sql](https://github.com/Rosisoft3/LMS-Elearning/database/lms.sql) file and open the ../src/lms/dao/dao.properties and ../../WEB-INF/taglibs.jsp files using editors and set your configs variable.
+Import [lms.sql](https://github.com/Rosisoft3/LMS-Elearning/blob/main/database/lms.sql) file and open the ../src/lms/dao/dao.properties and ../../WEB-INF/taglibs.jsp files using editors and set your configs variable.
  
 **4. Run the project on server Tomcat 7.**
 
