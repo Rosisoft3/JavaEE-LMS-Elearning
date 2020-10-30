@@ -27,13 +27,13 @@ LMS is a project Learning Management System for developing and realising web-bas
 
 **1. Download zip from the link below:.**
 
-[Download LMSproject.zip](https://github.com/Rosisoft3/LMS)
+[Download LMSproject.zip](https://github.com/Rosisoft3/LMS-Elearning/archive/main.zip)
 
 **2. Extract the contents of zip, open Eclipse EE IDE and import the project .**
 
 **3. Configuration database.**
 
-Import [lms.sql](https://github.com/Rosisoft3/LMS) file and open the ../src/lms/dao/dao.properties and ../../WEB-INF/taglibs.jsp files using editors and set your configs variable.
+Import [lms.sql](https://github.com/Rosisoft3/LMS-Elearning/database/lms.sql) file and open the ../src/lms/dao/dao.properties and ../../WEB-INF/taglibs.jsp files using editors and set your configs variable.
  
 **4. Run the project on server Tomcat 7.**
 
@@ -53,11 +53,12 @@ Import [lms.sql](https://github.com/Rosisoft3/LMS) file and open the ../src/lms/
 
 ### Screenshots
 <p align="center">
-  <img src=.png>
+  <img src=https://github.com/Rosisoft3/LMS-Elearning/img/1.png>
+ <img src=https://github.com/Rosisoft3/LMS-Elearning/img/2.png>
 </p>
 
 ### License
-LMS is a truly opensource E-Learning  which will always be free under the [MIT License](LICENSE).
+LMS is a truly opensource E-Learning  which will always be free under the [MIT License](https://github.com/Rosisoft3/LMS-Elearning/blob/main/LICENSE).
 
 ### Contact US
 Email : productivityrosisoft@gmail.com
