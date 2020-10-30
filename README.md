@@ -53,8 +53,8 @@ Import [lms.sql](https://github.com/Rosisoft3/LMS-Elearning/database/lms.sql) fi
 
 ### Screenshots
 <p align="center">
-  <img src=https://github.com/Rosisoft3/LMS-Elearning/img/1.png>
- <img src=https://github.com/Rosisoft3/LMS-Elearning/img/2.png>
+  <img src=https://github.com/Rosisoft3/LMS-Elearning/blob/main/img/1.png>
+ <img src=https://github.com/Rosisoft3/LMS-Elearning/blob/main/img/2.png>
 </p>
 
 ### License
